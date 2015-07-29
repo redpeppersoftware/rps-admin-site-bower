@@ -1,0 +1,20 @@
+{
+  "name": "rps-admin-site-dependencies",
+  "private": true,
+  "version": "1.0.0",
+  "authors": [
+    "Russell Kennington <arussellk@gmail.com>"
+  ],
+  "description": "front end dependencies for red pepper admin projects",
+  "license": "MIT",
+  "dependencies": {
+  	"foundation": "zurb/bower-foundation",
+    "bourbon": "~4.2.3",
+    "angular-foundation": "~0.6.0",
+    "toastr": "~2.1.1",
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "restangular": "~1.5.1",
+    "angular-utils-pagination": "~0.8.3"
+  }
+}

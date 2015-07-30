@@ -15,6 +15,7 @@
     "angular": "~1.4.3",
     "angular-route": "~1.4.3",
     "restangular": "~1.5.1",
-    "angular-utils-pagination": "~0.8.3"
+    "angular-utils-pagination": "~0.8.3",
+    "oi.select": "~0.2.2"
   }
 }

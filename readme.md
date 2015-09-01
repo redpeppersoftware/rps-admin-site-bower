@@ -22,8 +22,9 @@ Full `bower.json`:
   ],
   "description": "some project description",
   "dependencies": {
-    "rps": "redpeppersoftware/rps-admin-site-bower"
+    "rps": "redpeppersoftware/rps-admin-site-bower#v1.0.0"
   }
 }
 ```
 
+> Be sure to add some sort of tag (such as `#v1.0.0`) to the dependency to ensure your app works in the future.
